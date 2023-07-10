@@ -15,7 +15,30 @@ This is a direct fit for the rain meter sold on Aliexpress [here](https://s.clic
 
 This smart device add-on can be powered by [any 4-6V solar cell]( https://www.youtube.com/watch?v=_EIHE7InmE0&list=PLr9bx02o__3WiXoaagXIz22EtPnOz7qba ) not requiring any cabling for installation. 
 
+<br>
 
+**Functionalities available:** 
+- Live Measurements of Falling Rain
+- Temperaure
+- Humidity
+- Motion Detection
+- Solar & Battery Powered . No wiring needd.  
+
+<br>
+
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status
+  The Smart Rain Meter Add-on is Fully functional.
+  
+  <p align="center">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
+</p>
+
+<br>
+
+## OEM Firmware code
+The OEM version of the firmware code can be found on the folder **firmware code**.  It has by default OTA updates, meaning the smart rain meter add-on device automatically updates it self when newer updated versions made available here.  
+
+This code uses my own ESP32 c++ class libraries to expedite development of code of ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
 
 <br>
 
