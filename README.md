@@ -19,6 +19,14 @@ Gerber Files Available on 10-07-2023. Stay tuned.
 
 <br>
 
+## PCB design 
+
+<p align="center">
+    <img src="https://github.com/aeonSolutions/aeonlabs-HomeAutomation-Outdoors-Wireless-Battery-powered-Rainmeter/blob/main/media/pcb_front.png" height="300px">
+</p>
+
+<br>
+
 ## Compatibility
 
 <p align="center">
