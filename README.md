@@ -4,6 +4,8 @@
 
 # Wireless Battery Powered Rain meter
 
+This is a direct fit for the rain meter sold on Aliexpress [here](https://s.click.aliexpress.com/e/_DFaIyrL) to enable sending wireless rain data from the garden directly to Aeonlabs Home automation smart devices. 
+ 
 
 <br>
 
