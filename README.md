@@ -9,7 +9,9 @@ This is a direct fit for the rain meter sold on Aliexpress [here](https://s.clic
  <p align="center">
   <img src="https://github.com/aeonSolutions/aeonlabs-HomeAutomation-Outdoors-Wireless-Battery-powered-Rainmeter/blob/main/media/20230710_114420.jpg" width="45%">
  <img src="https://github.com/aeonSolutions/aeonlabs-HomeAutomation-Outdoors-Wireless-Battery-powered-Rainmeter/blob/main/media/20230710_114610.jpg" width="45%">
- </p>p
+ </p>
+
+This smart device add-on can be powered by [any 4-6V solar cell](https://s.click.aliexpress.com/e/_Dljs99T) not requireing any cabling for instalation. 
 
 <br>
 
