@@ -15,6 +15,8 @@ This is a direct fit for the rain meter sold on Aliexpress [here](https://s.clic
 
 This smart device add-on can be powered by [any 4-6V solar cell]( https://www.youtube.com/watch?v=_EIHE7InmE0&list=PLr9bx02o__3WiXoaagXIz22EtPnOz7qba ) not requiring any cabling for installation. 
 
+Gerber Files Available on 10-07-2023. Stay tuned. 
+
 <br>
 
 ## Compatibility
