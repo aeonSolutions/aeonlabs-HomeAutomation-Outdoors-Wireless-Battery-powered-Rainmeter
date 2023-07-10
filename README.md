@@ -19,10 +19,10 @@ This smart device add-on can be powered by [any 4-6V solar cell]( https://www.yo
 
 **Functionalities available:** 
 - Live Measurements of Falling Rain
-- Temperaure
-- Humidity
+- Live Measurements of Temperaure
+- Live Measurements of Humidity
 - Motion Detection
-- Solar & Battery Powered . No wiring needd.  
+- Solar & Battery Powered . No wiring needed.  
 
 <br>
 
