@@ -5,7 +5,7 @@
 Last update: 04-12-2023
 </p>
 <p align="right">
-    sponsored by <br>
+   partially sponsored by <br>
     <a href="https://www.seeedstudio.com/fusion.html">
        <img height="25" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/seedstudio_logo.png">
     </a>
